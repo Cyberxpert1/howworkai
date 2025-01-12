@@ -47,5 +47,9 @@ Chinese social media company Tencent has incorporated artificial intelligence in
 
 
 # Chatgpt 2030
-https://github.com/user-attachments/assets/36d7f3f4-0cf6-4fd9-a6d7-9a0a111c35b9
+
+
+https://github.com/user-attachments/assets/7db96d89-13c5-48b7-b999-2f01b83960b3
+
+
 
