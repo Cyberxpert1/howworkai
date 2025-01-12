@@ -11,7 +11,6 @@ Chinese company Alibaba is the world’s largest e-commerce platform that sells 
 
 Alphabet is Google’s parent company. Waymo, the company’s self-driving technology division, began as a project at Google. Today, Waymo wants to bring self-driving technology to the world to not only to move people around, but to reduce the number of crashes. Its autonomous vehicles are currently shuttling riders around California in self-driving taxis. Right now, the company can’t charge a fare and a human driver still sits behind the wheel during the pilot programme. Google signalled its commitment to deep learning when it acquired DeepMind. Not only did the system learn how to play 49 different Atari games, the AlphaGo programme was the first to beat a professional player at the game of Go. Another AI innovation from Google is Google Duplex. Using natural language processing, an AI voice interface can make phone calls and schedule appointments on your behalf. Learn even more about how Google is incorporating artificial intelligence and machine learning into operations.
 
-Click to accept marketing cookies and enable this content
 
 3. Amazon
 
