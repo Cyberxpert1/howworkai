@@ -1,9 +1,10 @@
 # AI
 
-https://github.com/user-attachments/assets/0d1579b2-ba48-4156-8866-0a2b2343e873)
+![Ai](https://github.com/user-attachments/assets/2a7f7385-232e-4191-90c1-10097bcdf8af)
 
 
 The 10 Best Examples Of How Companies Use Artificial Intelligence In Practice
+
 All the world’s tech giants from Alibaba to Amazon are in a race to become the world’s leaders in artificial intelligence (AI). These companies are AI trailblazers and embrace AI to provide next-level products and services. Here are 10 of the best examples of how these companies are using artificial intelligence in practice.
 
 # 1. Alibaba
@@ -38,8 +39,13 @@ Chinese social media company Tencent has incorporated artificial intelligence in
 
 
 
+#Simplified Ai Image example 
+![IMG_20250112_095211](https://github.com/user-attachments/assets/41d77e71-44bb-47b6-aca3-b081f7fab7bb)
 
 
 
+
+
+# Chatgpt 2030
 https://github.com/user-attachments/assets/36d7f3f4-0cf6-4fd9-a6d7-9a0a111c35b9
 
