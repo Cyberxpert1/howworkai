@@ -1,1 +1,1 @@
-# AIhowwork
+# AI
