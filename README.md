@@ -1,19 +1,26 @@
-# AI
+# AI The 10 Best Examples Of How Companies Use Artificial Intelligence In Practice
 
 ![Ai](https://github.com/user-attachments/assets/2a7f7385-232e-4191-90c1-10097bcdf8af)
 
 
-! (https://github.com/user-attachments/assets/2ff93c71-73ad-4cb0-9e20-322cb623a29c)
-
-The 10 Best Examples Of How Companies Use Artificial Intelligence In Practice
-
-All the world’s tech giants from Alibaba to Amazon are in a race to become the world’s leaders in artificial intelligence (AI). These companies are AI trailblazers and embrace AI to provide next-level products and services. Here are 10 of the best examples of how these companies are using artificial intelligence in practice.
+All the world’s tech giants from Alibaba to Amazon are in a race to become the world’s leaders in artificial intelligence (AI). 
+These companies are AI trailblazers and embrace AI to provide next-level products and services. 
+Here are 10 of the best examples of how these companies are using artificial intelligence in practice.
 
 # 1. Alibaba
-Chinese company Alibaba is the world’s largest e-commerce platform that sells more than Amazon and eBay combined. Artificial intelligence (AI) is integral in Alibaba’s daily operations and is used to predict what customers might want to buy. With natural language processing, the company automatically generates product descriptions for the site. Another way Alibaba uses artificial intelligence is in its City Brain project to create smart cities. The project uses AI algorithms to help reduce traffic jams by monitoring every vehicle in the city. Additionally, Alibaba, through its cloud computing division called Alibaba Cloud, is helping farmers monitor crops to improve yield and cuts costs with artificial intelligence.
+Chinese company Alibaba is the world’s largest e-commerce platform that sells more than Amazon and eBay combined. Artificial intelligence (AI) is integral in 
+Alibaba’s daily operations and is used to predict what customers might want to buy. With natural language processing, the company automatically generates 
+product descriptions for the site. Another way Alibaba uses artificial intelligence is in its City Brain project to create smart cities. The project uses AI 
+algorithms to help reduce traffic jams by monitoring every vehicle in the city. Additionally, Alibaba, through its cloud computing division called Alibaba Cloud,
+is helping farmers monitor crops to improve yield and cuts costs with artificial intelligence.
 
 # 2. Alphabet – Google
-Alphabet is Google’s parent company. Waymo, the company’s self-driving technology division, began as a project at Google. Today, Waymo wants to bring self-driving technology to the world to not only to move people around, but to reduce the number of crashes. Its autonomous vehicles are currently shuttling riders around California in self-driving taxis. Right now, the company can’t charge a fare and a human driver still sits behind the wheel during the pilot programme. Google signalled its commitment to deep learning when it acquired DeepMind. Not only did the system learn how to play 49 different Atari games, the AlphaGo programme was the first to beat a professional player at the game of Go. Another AI innovation from Google is Google Duplex. Using natural language processing, an AI voice interface can make phone calls and schedule appointments on your behalf. Learn even more about how Google is incorporating artificial intelligence and machine learning into operations.
+Alphabet is Google’s parent company. Waymo, the company’s self-driving technology division, began as a project at Google. Today, Waymo wants to bring self-driving 
+technology to the world to not only to move people around, but to reduce the number of crashes. Its autonomous vehicles are currently shuttling riders around California 
+in self-driving taxis. Right now, the company can’t charge a fare and a human driver still sits behind the wheel during the pilot programme. Google signalled its commitment
+to deep learning when it acquired DeepMind. Not only did the system learn how to play 49 different Atari games, the AlphaGo programme was the first to beat a professional player 
+at the game of Go. Another AI innovation from Google is Google Duplex. Using natural language processing, an AI voice interface can make phone calls and schedule appointments
+on your behalf. Learn even more about how Google is incorporating artificial intelligence and machine learning into operations.
 
 # 3. Amazon
 Not only is Amazon in the artificial intelligence game with its digital voice assistant, Alexa, but artificial intelligence is also part of many aspects of its business. Another innovative way Amazon uses artificial intelligence is to ship things to you before you even think about buying it. They collect a lot of data about each person’s buying habits and have such confidence in how the data they collect helps them recommend items to its customers and now predict what they need even before they need it by using predictive analytics. In a time when many brick-and-mortar stores are struggling to figure out how to stay relevant, America’s largest e-tailer offers a new convenience store concept called Amazon Go. Unlike other stores, there is no checkout required. The stores have artificial intelligence technology that tracks what items you pick up and then automatically charges you for those items through the Amazon Go app on your phone. Since there is no checkout, you bring your own bags to fill up with items, and there are cameras watching your every move to identify every item you put in your bag to ultimately charge you for it.
@@ -46,6 +53,10 @@ Chinese social media company Tencent has incorporated artificial intelligence in
 
 
 
+CHATGPT IN 2030 https://github.com/user-attachments/assets/2ff93c71-73ad-4cb0-9e20-322cb623a29c
 
+# Follow and Share 
+# https://github.com/cyberxpert1
+# Writeups - YASH G LAD
 
 
