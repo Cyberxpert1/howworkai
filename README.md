@@ -41,7 +41,7 @@ Chinese social media company Tencent has incorporated artificial intelligence in
 
 
 
-#Simplified Ai Image example 
+#Simplified Ai 
 ![IMG_20250112_095211](https://github.com/user-attachments/assets/41d77e71-44bb-47b6-aca3-b081f7fab7bb)
 
 
